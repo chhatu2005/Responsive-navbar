@@ -45,7 +45,7 @@ body
     transition: 0.3s;
 }
 
-.nav-menu.nav-menu.active
+.nav-menu.active
 {
     transform: translateY(0px);
 }
