@@ -129,7 +129,8 @@ body
         position: absolute;
         top: 70px;
         left: 0px;
-        width: 100%;
+        right: 10px;
+        width: auto;
 
         background-color: transparent;
 
